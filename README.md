@@ -1,1 +1,1 @@
-Git Training 2022
+Git Training
